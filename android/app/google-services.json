@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170313090119",
+    "project_id": "block-de-notas-b12af",
+    "storage_bucket": "block-de-notas-b12af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170313090119:android:40ce811c916c476fa09d62",
+        "android_client_info": {
+          "package_name": "com.example.blog_notas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170313090119-gorvg63iltq07c2jrn2qe0ffefcccqk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZpETlXMV8oNuJuD1lBjH2EhvdkSZoAsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170313090119-gorvg63iltq07c2jrn2qe0ffefcccqk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
